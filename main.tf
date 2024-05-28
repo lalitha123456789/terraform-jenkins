@@ -6,7 +6,7 @@ resource "aws_instance" "name" {
     key_name = "keypair1"
 
     tags = {
-      Name = "dev"
+      Name = "lalli"
     }
   
 }
